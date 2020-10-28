@@ -1,0 +1,153 @@
+<!doctype>
+<html5>
+<head>
+</head>
+<body>
+	<script>
+	
+	// CONSTANTES
+	
+	var años = 5;
+	var añoMeses = 12;
+	var mesDias = 31;
+	
+	var archivosAspirante = 2; // max: 4
+	var archivoPeso = 0.5; // max: 1
+	var campañas = 4;
+	var campañaAspirantes = 40000;
+	var campañasNuevasAño = 12;
+	
+	var presupuesto = 70000;
+	var precioCluster = 10000;
+	var precioEnterprise = 5000;
+	
+	var unidadesBackUpArchivo = 1000;
+	var precioGbBackUpArchivo = 0.0005;
+	
+	var unidadesBackUpObjeto = 1000;
+	var precioGbBackUpObjeto = 0.0051;
+	
+	var unidadesArchivo = 1000;
+	var precioGbArchivo = 0.3;
+	
+	var unidadesObjeto = 1000;
+	var precioGbObjeto = 0.0255;
+	
+	var unidadesPeticiones = 10000;
+	var precio10kPeticiones = 0.0034;
+	
+	var inflaciónAño = 1.05; // 6% anual
+	var peticionesAspiranteDia = 0.5;
+	var objetoPeso = 0.5;
+	
+	var campañasNuevasMes = campañasNuevasAño / añoMeses;
+	var peticionesAspiranteMes = peticionesAspiranteDia * mesDias;
+	
+	// VARIABLES
+	
+	var backUps = 12;
+	var backUpsArchivos = [];
+	var backUpsObjetos = [];
+	var pesoArchivos = 0;
+	var pesoObjetos = 0;
+	
+	var año = 1;
+	var gasto = precioEnterprise;
+	var mes = 1;
+	var añosEnterprise = 3;
+	
+	var aspirantes;
+	var pesoNuevosArchivos;
+	var pesoNuevosObjetos;
+	var peticiones;
+	
+	var pesoBackUpArchivos;
+	var pesoBackUpObjetos;
+	
+	window.onload = function() {
+		for(let i = backUps - 1; i >= 0; i--) {
+			backUpsArchivos[i] = 0;
+		}
+		for(let i = backUps - 1; i >= 0; i--) {
+			backUpsObjetos[i] = 0;
+		}
+		
+		while(año <= años) {
+			aspirantes = campañas * campañaAspirantes;
+			peticiones = aspirantes * peticionesAspiranteMes;
+			pesoNuevosArchivos = archivoPeso * archivosAspirante * campañaAspirantes;
+			pesoNuevosObjetos = objetoPeso * campañaAspirantes;	
+			
+			pesoArchivos += pesoNuevosArchivos;
+			pesoObjetos += pesoNuevosObjetos;
+			
+			añadirGastos();
+			imprimir();
+			backUp();
+			incrementar();
+		}
+	};
+	
+	function añadirGastos() {
+		pesoBackUpArchivos = 0;
+		pesoBackUpObjetos = 0;
+		for(let i = backUps - 1; i >= 0; i--) {
+			pesoBackUpArchivos += backUpsArchivos[i];
+		}
+		for(let i = backUps - 1; i >= 0; i--) {
+			pesoBackUpObjetos += backUpsObjetos[i];
+		}
+		gasto += precioGbBackUpArchivo * pesoBackUpArchivos / unidadesBackUpArchivo;
+		gasto += precioGbBackUpObjeto * pesoBackUpObjetos / unidadesBackUpObjeto;
+		gasto += precioGbArchivo * pesoArchivos / unidadesArchivo;
+		gasto += precioGbObjeto * pesoObjetos / unidadesObjeto;
+		gasto += precio10kPeticiones * peticiones / unidadesPeticiones;
+	}
+	
+	function incrementar() {
+		campañas += campañasNuevasMes;
+		mes++;
+		if(mes === añoMeses + 1) {
+			gasto += año <= añosEnterprise ? precioEnterprise : precioCluster;
+			mes = 1;
+			año++;
+			inflarPrecios();
+		}
+	}
+	
+	function backUp() {
+		for(let i = backUpsArchivos.length - 2; i >= 0; i--) {
+			backUpsArchivos[i + 1] = backUpsArchivos[i];
+		}
+		for(let i = backUpsObjetos.length - 2; i >= 0; i--) {
+			backUpsObjetos[i + 1] = backUpsObjetos[i];
+		}
+		backUpsArchivos[0] = pesoArchivos;
+		backUpsObjetos[0] = pesoObjetos;
+	}
+	
+	function imprimir() {
+		console.log('Año: ' + año + ' - Mes: ' + mes);
+		console.log('Peso del back-up de archivos: ' + pesoBackUpArchivos);
+		console.log('Peso del back-up de objetos: ' + pesoBackUpObjetos);
+		console.log('Peso de los archivos: ' + pesoArchivos);
+		console.log('Peso de los objetos: ' + pesoObjetos);
+		console.log('Gasto: ' + gasto);
+	}
+	
+	function inflarPrecios() {
+		precioCluster *= inflaciónAño;
+		precioEnterprise *= inflaciónAño;
+		precioGbBackUpArchivo *= inflaciónAño;
+		precioGbBackUpObjeto *= inflaciónAño;
+		precioGbArchivo *= inflaciónAño;
+		precioGbObjeto *= inflaciónAño;
+		precio10kPeticiones *= inflaciónAño;
+	}
+	
+	</script>
+	
+	<p>El resultado de esta simulación estadistica se encuentra en la consola</p>
+	
+</body>
+</html>
