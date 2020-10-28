@@ -1,0 +1,360 @@
+Año: 1 - Mes: 1
+Peso del back-up de archivos: 0
+Peso del back-up de objetos: 0
+Peso de los archivos: 40000
+Peso de los objetos: 20000
+Gasto: 5013.3532000000005
+Año: 1 - Mes: 2
+Peso del back-up de archivos: 40000
+Peso del back-up de objetos: 20000
+Peso de los archivos: 80000
+Peso de los objetos: 40000
+Gasto: 5039.549200000001
+Año: 1 - Mes: 3
+Peso del back-up de archivos: 120000
+Peso del back-up de objetos: 60000
+Peso de los archivos: 120000
+Peso de los objetos: 60000
+Gasto: 5078.710000000001
+Año: 1 - Mes: 4
+Peso del back-up de archivos: 240000
+Peso del back-up de objetos: 120000
+Peso de los archivos: 160000
+Peso de los objetos: 80000
+Gasto: 5130.957600000001
+Año: 1 - Mes: 5
+Peso del back-up de archivos: 400000
+Peso del back-up de objetos: 200000
+Peso de los archivos: 200000
+Peso de los objetos: 100000
+Gasto: 5196.414000000001
+Año: 1 - Mes: 6
+Peso del back-up de archivos: 600000
+Peso del back-up de objetos: 300000
+Peso de los archivos: 240000
+Peso de los objetos: 120000
+Gasto: 5275.201200000001
+Año: 1 - Mes: 7
+Peso del back-up de archivos: 840000
+Peso del back-up de objetos: 420000
+Peso de los archivos: 280000
+Peso de los objetos: 140000
+Gasto: 5367.441200000001
+Año: 1 - Mes: 8
+Peso del back-up de archivos: 1120000
+Peso del back-up de objetos: 560000
+Peso de los archivos: 320000
+Peso de los objetos: 160000
+Gasto: 5473.256000000001
+Año: 1 - Mes: 9
+Peso del back-up de archivos: 1440000
+Peso del back-up de objetos: 720000
+Peso de los archivos: 360000
+Peso de los objetos: 180000
+Gasto: 5592.767600000001
+Año: 1 - Mes: 10
+Peso del back-up de archivos: 1800000
+Peso del back-up de objetos: 900000
+Peso de los archivos: 400000
+Peso de los objetos: 200000
+Gasto: 5726.098000000001
+Año: 1 - Mes: 11
+Peso del back-up de archivos: 2200000
+Peso del back-up de objetos: 1100000
+Peso de los archivos: 440000
+Peso de los objetos: 220000
+Gasto: 5873.369200000001
+Año: 1 - Mes: 12
+Peso del back-up de archivos: 2640000
+Peso del back-up de objetos: 1320000
+Peso de los archivos: 480000
+Peso de los objetos: 240000
+Gasto: 6034.703200000001
+Año: 2 - Mes: 1
+Peso del back-up de archivos: 3120000
+Peso del back-up de objetos: 1560000
+Peso de los archivos: 520000
+Peso de los objetos: 260000
+Gasto: 11218.997940000001
+Año: 2 - Mes: 2
+Peso del back-up de archivos: 3600000
+Peso del back-up de objetos: 1800000
+Peso de los archivos: 560000
+Peso de los objetos: 280000
+Gasto: 11418.186719999998
+Año: 2 - Mes: 3
+Peso del back-up de archivos: 4080000
+Peso del back-up de objetos: 2040000
+Peso de los archivos: 600000
+Peso de los objetos: 300000
+Gasto: 11632.269539999996
+Año: 2 - Mes: 4
+Peso del back-up de archivos: 4560000
+Peso del back-up de objetos: 2280000
+Peso de los archivos: 640000
+Peso de los objetos: 320000
+Gasto: 11861.246399999995
+Año: 2 - Mes: 5
+Peso del back-up de archivos: 5040000
+Peso del back-up de objetos: 2520000
+Peso de los archivos: 680000
+Peso de los objetos: 340000
+Gasto: 12105.117299999994
+Año: 2 - Mes: 6
+Peso del back-up de archivos: 5520000
+Peso del back-up de objetos: 2760000
+Peso de los archivos: 720000
+Peso de los objetos: 360000
+Gasto: 12363.882239999992
+Año: 2 - Mes: 7
+Peso del back-up de archivos: 6000000
+Peso del back-up de objetos: 3000000
+Peso de los archivos: 760000
+Peso de los objetos: 380000
+Gasto: 12637.54121999999
+Año: 2 - Mes: 8
+Peso del back-up de archivos: 6480000
+Peso del back-up de objetos: 3240000
+Peso de los archivos: 800000
+Peso de los objetos: 400000
+Gasto: 12926.09423999999
+Año: 2 - Mes: 9
+Peso del back-up de archivos: 6960000
+Peso del back-up de objetos: 3480000
+Peso de los archivos: 840000
+Peso de los objetos: 420000
+Gasto: 13229.54129999999
+Año: 2 - Mes: 10
+Peso del back-up de archivos: 7440000
+Peso del back-up de objetos: 3720000
+Peso de los archivos: 880000
+Peso de los objetos: 440000
+Gasto: 13547.882399999991
+Año: 2 - Mes: 11
+Peso del back-up de archivos: 7920000
+Peso del back-up de objetos: 3960000
+Peso de los archivos: 920000
+Peso de los objetos: 460000
+Gasto: 13881.11753999999
+Año: 2 - Mes: 12
+Peso del back-up de archivos: 8400000
+Peso del back-up de objetos: 4200000
+Peso de los archivos: 960000
+Peso de los objetos: 480000
+Gasto: 14229.24671999999
+Año: 3 - Mes: 1
+Peso del back-up de archivos: 8880000
+Peso del back-up de objetos: 4440000
+Peso de los archivos: 1000000
+Peso de los objetos: 500000
+Gasto: 19860.42110099999
+Año: 3 - Mes: 2
+Peso del back-up de archivos: 9360000
+Peso del back-up de objetos: 4680000
+Peso de los archivos: 1040000
+Peso de los objetos: 520000
+Gasto: 20257.23422399999
+Año: 3 - Mes: 3
+Peso del back-up de archivos: 9840000
+Peso del back-up de objetos: 4920000
+Peso de los archivos: 1080000
+Peso de los objetos: 540000
+Gasto: 20669.686088999984
+Año: 3 - Mes: 4
+Peso del back-up de archivos: 10320000
+Peso del back-up de objetos: 5160000
+Peso de los archivos: 1120000
+Peso de los objetos: 560000
+Gasto: 21097.776695999983
+Año: 3 - Mes: 5
+Peso del back-up de archivos: 10800000
+Peso del back-up de objetos: 5400000
+Peso de los archivos: 1160000
+Peso de los objetos: 580000
+Gasto: 21541.506044999984
+Año: 3 - Mes: 6
+Peso del back-up de archivos: 11280000
+Peso del back-up de objetos: 5640000
+Peso de los archivos: 1200000
+Peso de los objetos: 600000
+Gasto: 22000.87413599998
+Año: 3 - Mes: 7
+Peso del back-up de archivos: 11760000
+Peso del back-up de objetos: 5880000
+Peso de los archivos: 1240000
+Peso de los objetos: 620000
+Gasto: 22475.880968999983
+Año: 3 - Mes: 8
+Peso del back-up de archivos: 12240000
+Peso del back-up de objetos: 6120000
+Peso de los archivos: 1280000
+Peso de los objetos: 640000
+Gasto: 22966.526543999986
+Año: 3 - Mes: 9
+Peso del back-up de archivos: 12720000
+Peso del back-up de objetos: 6360000
+Peso de los archivos: 1320000
+Peso de los objetos: 660000
+Gasto: 23472.810860999987
+Año: 3 - Mes: 10
+Peso del back-up de archivos: 13200000
+Peso del back-up de objetos: 6600000
+Peso de los archivos: 1360000
+Peso de los objetos: 680000
+Gasto: 23994.733919999988
+Año: 3 - Mes: 11
+Peso del back-up de archivos: 13680000
+Peso del back-up de objetos: 6840000
+Peso de los archivos: 1400000
+Peso de los objetos: 700000
+Gasto: 24532.295720999988
+Año: 3 - Mes: 12
+Peso del back-up de archivos: 14160000
+Peso del back-up de objetos: 7080000
+Peso de los archivos: 1440000
+Peso de los objetos: 720000
+Gasto: 25085.496263999987
+Año: 4 - Mes: 1
+Peso del back-up de archivos: 14640000
+Peso del back-up de objetos: 7320000
+Peso de los archivos: 1480000
+Peso de los objetos: 740000
+Gasto: 31195.27751324999
+Año: 4 - Mes: 2
+Peso del back-up de archivos: 15120000
+Peso del back-up de objetos: 7560000
+Peso de los archivos: 1520000
+Peso de los objetos: 760000
+Gasto: 31808.97944159999
+Año: 4 - Mes: 3
+Peso del back-up de archivos: 15600000
+Peso del back-up de objetos: 7800000
+Peso de los archivos: 1560000
+Peso de los objetos: 780000
+Gasto: 32439.102049049987
+Año: 4 - Mes: 4
+Peso del back-up de archivos: 16080000
+Peso del back-up de objetos: 8040000
+Peso de los archivos: 1600000
+Peso de los objetos: 800000
+Gasto: 33085.645335599984
+Año: 4 - Mes: 5
+Peso del back-up de archivos: 16560000
+Peso del back-up de objetos: 8280000
+Peso de los archivos: 1640000
+Peso de los objetos: 820000
+Gasto: 33748.609301249984
+Año: 4 - Mes: 6
+Peso del back-up de archivos: 17040000
+Peso del back-up de objetos: 8520000
+Peso de los archivos: 1680000
+Peso de los objetos: 840000
+Gasto: 34427.99394599999
+Año: 4 - Mes: 7
+Peso del back-up de archivos: 17520000
+Peso del back-up de objetos: 8760000
+Peso de los archivos: 1720000
+Peso de los objetos: 860000
+Gasto: 35123.79926984999
+Año: 4 - Mes: 8
+Peso del back-up de archivos: 18000000
+Peso del back-up de objetos: 9000000
+Peso de los archivos: 1760000
+Peso de los objetos: 880000
+Gasto: 35836.02527279999
+Año: 4 - Mes: 9
+Peso del back-up de archivos: 18480000
+Peso del back-up de objetos: 9240000
+Peso de los archivos: 1800000
+Peso de los objetos: 900000
+Gasto: 36564.67195484999
+Año: 4 - Mes: 10
+Peso del back-up de archivos: 18960000
+Peso del back-up de objetos: 9480000
+Peso de los archivos: 1840000
+Peso de los objetos: 920000
+Gasto: 37309.73931599999
+Año: 4 - Mes: 11
+Peso del back-up de archivos: 19440000
+Peso del back-up de objetos: 9720000
+Peso de los archivos: 1880000
+Peso de los objetos: 940000
+Gasto: 38071.22735625
+Año: 4 - Mes: 12
+Peso del back-up de archivos: 19920000
+Peso del back-up de objetos: 9960000
+Peso de los archivos: 1920000
+Peso de los objetos: 960000
+Gasto: 38849.13607560001
+Año: 5 - Mes: 1
+Peso del back-up de archivos: 20400000
+Peso del back-up de objetos: 10200000
+Peso de los archivos: 1960000
+Peso de los objetos: 980000
+Gasto: 51259.4319439725
+Año: 5 - Mes: 2
+Peso del back-up de archivos: 20880000
+Peso del back-up de objetos: 10440000
+Peso de los archivos: 2000000
+Peso de los objetos: 1000000
+Gasto: 52110.7195254
+Año: 5 - Mes: 3
+Peso del back-up de archivos: 21360000
+Peso del back-up de objetos: 10680000
+Peso de los archivos: 2040000
+Peso de los objetos: 1020000
+Gasto: 52979.2488198825
+Año: 5 - Mes: 4
+Peso del back-up de archivos: 21840000
+Peso del back-up de objetos: 10920000
+Peso de los archivos: 2080000
+Peso de los objetos: 1040000
+Gasto: 53865.01982742
+Año: 5 - Mes: 5
+Peso del back-up de archivos: 22320000
+Peso del back-up de objetos: 11160000
+Peso de los archivos: 2120000
+Peso de los objetos: 1060000
+Gasto: 54768.0325480125
+Año: 5 - Mes: 6
+Peso del back-up de archivos: 22800000
+Peso del back-up de objetos: 11400000
+Peso de los archivos: 2160000
+Peso de los objetos: 1080000
+Gasto: 55688.28698166001
+Año: 5 - Mes: 7
+Peso del back-up de archivos: 23280000
+Peso del back-up de objetos: 11640000
+Peso de los archivos: 2200000
+Peso de los objetos: 1100000
+Gasto: 56625.78312836251
+Año: 5 - Mes: 8
+Peso del back-up de archivos: 23760000
+Peso del back-up de objetos: 11880000
+Peso de los archivos: 2240000
+Peso de los objetos: 1120000
+Gasto: 57580.52098812001
+Año: 5 - Mes: 9
+Peso del back-up de archivos: 24240000
+Peso del back-up de objetos: 12120000
+Peso de los archivos: 2280000
+Peso de los objetos: 1140000
+Gasto: 58552.50056093251
+Año: 5 - Mes: 10
+Peso del back-up de archivos: 24720000
+Peso del back-up de objetos: 12360000
+Peso de los archivos: 2320000
+Peso de los objetos: 1160000
+Gasto: 59541.72184680001
+Año: 5 - Mes: 11
+Peso del back-up de archivos: 25200000
+Peso del back-up de objetos: 12600000
+Peso de los archivos: 2360000
+Peso de los objetos: 1180000
+Gasto: 60548.184845722506
+Año: 5 - Mes: 12
+Peso del back-up de archivos: 25680000
+Peso del back-up de objetos: 12840000
+Peso de los archivos: 2400000
+Peso de los objetos: 1200000
+Gasto: 64571.8895577
